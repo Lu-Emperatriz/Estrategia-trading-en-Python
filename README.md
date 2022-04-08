@@ -1,0 +1,1 @@
+# Estrategia-trading-en-Python
